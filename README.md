@@ -2,8 +2,6 @@
 
 A smart weather monitoring system with real-time temperature, humidity, and rain detection. Features a beautiful OLED display and web dashboard accessible via WiFi.
 
-![Weather Station Setup](assets/weather_station.jpg)
-
 ## ✨ Features
 
 - 🌡️ **Real-time Temperature Monitoring** - Accurate readings from DHT11 sensor (-40 to 50°C)
