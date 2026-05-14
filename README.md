@@ -6,7 +6,7 @@ A smart weather monitoring system with real-time temperature, humidity, and rain
 
 ## 📸 Project Photo
 
-![Weather Station](Image.jpg)
+![Weather Station](Image.jpeg)
 
 > OLED display mounted on a custom enclosure showing live temperature (34.7°C), humidity (38%), and weather status (Clear ☀️).
 
